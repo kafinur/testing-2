@@ -1,0 +1,8 @@
+PancaPath v11 — Revisi berdasarkan umpan balik siswa
+
+1. Bahasa dan petunjuk dipersingkat.
+2. Visual lokal Madiun ditambahkan ke halaman utama dan PancaQuest.
+3. PancaQuest v1.6 Level 4 Randomized dijadikan game utama.
+4. Audio procedural tetap aktif setelah interaksi pertama.
+5. Soal dan pilihan jawaban diacak per sesi.
+6. Spreadsheet/Google Form B tidak diganti.
